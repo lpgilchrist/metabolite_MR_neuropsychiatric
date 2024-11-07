@@ -13,4 +13,4 @@ Polygenic risk scores were calculated using the GenoPred pipeline
 Details on how to set up and use the pipeline are available here:
 * *https://opain.github.io/GenoPred/*
 
-Code for the PRS logistics regression model is deposited on this github
+Code for the PRS logistics regression models are deposited on this github
